@@ -1,0 +1,13 @@
+{
+    "name": "eosimosu/metry_assignment",
+    "description": "Metry programming assignment",
+    "authors": [
+        {
+            "name": "Emmanuel Osimosu",
+            "email": "emmanuel.osimosu@gmail.com"
+        }
+    ],
+    "require": {
+         "phpunit/phpunit": "4.8.*"
+    },
+}
