@@ -1,4 +1,4 @@
-metry
+linear-interpolation
 ===============
 
 A PHP class that can take the following list of readings and output the resulting 5 interpolated values. The first and last values have been included. 
